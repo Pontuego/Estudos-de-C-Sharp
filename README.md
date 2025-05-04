@@ -1,2 +1,2 @@
 # Estudos C#
-Aqui estarão meus estudos sobre a linguagem C# ministrados pela Danki Code
+Aqui estarão meus estudos sobre a linguagem C# ministrados pela Danki Code https://www.bing.com/images/search?view=detailV2&ccid=Fb84%2bzBz&id=E1F2FED4E56E05AE5A951398A454CEDBF9203716&thid=OIP.Fb84-zBz7vPUfIoAZJL1BAAAAA&mediaurl=https%3a%2f%2favatars.githubusercontent.com%2fu%2f97468327%3fs%3d280%26v%3d4&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.15bf38fb3073eef3d47c8a006492f504%3frik%3dFjcg%252bdvOVKSYEw%26pid%3dImgRaw%26r%3d0&exph=280&expw=280&q=Danki+code+logo+github&simid=608033058011303541&FORM=IRPRST&ck=8EAD0E4268AE43EA54165FE310845EEC&selectedIndex=0&itb=0
