@@ -1,2 +1,2 @@
 # Estudos C#
-Aqui estarão meus estudos sobre a linguagem C# ministrados pela Danki Code
+Aqui estará meu aprendizado sobre a linguagem C# ministrados pela Danki Code
