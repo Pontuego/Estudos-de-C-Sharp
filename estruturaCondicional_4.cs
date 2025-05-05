@@ -10,6 +10,7 @@ namespace MyApp
             // &&
             // !
 
+            Console.WriteLine("Digite um número:\n");
             int numero = Convert.ToInt32(Console.ReadLine());
             int numero_2 = 6;
             bool resultado = false;
