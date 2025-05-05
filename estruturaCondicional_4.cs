@@ -14,7 +14,7 @@ namespace MyApp
             int numero_2 = 6;
             bool resultado = false;
 
-            if (numero == 4)
+            if (numero == 6 || numero >= 6)
             {
                 Console.WriteLine("É verdade");
             }
