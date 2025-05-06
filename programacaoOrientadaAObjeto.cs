@@ -19,9 +19,9 @@ namespace MyApp
 
             Aluno aluno = new Aluno(); // Cria um objeto (instância) da classe Aluno
 
-            Console.WriteLine(aluno.nome);
-            Console.WriteLine(aluno.nota_Anual);
-            Console.WriteLine(aluno.cpf);
+            Console.WriteLine("Nome: " + aluno.nome);
+            Console.WriteLine("Nota anual: " + aluno.nota_Anual);
+            Console.WriteLine("CPF :" + aluno.cpf);
         }
     }
 }
