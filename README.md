@@ -25,4 +25,4 @@ Este repositório contém:
 
 ## 🚀 Objetivo
 
-Praticar e evoluir meus conhecimentos em C#, solidificando conceitos básicos e intermediários com exemplos reais.
+Praticar e evoluir meus conhecimentos em C#, solidificando conceitos básicos e intermediários com exemplos reais para situações corporativas.
