@@ -53,8 +53,8 @@ namespace Virtual_Override  // Define um namespace para agrupar essas classes e 
             var trabalhador2 = new Trabalhador("Maria", 1200);
 
             // Exibe no console os salários calculados de cada trabalhador
-            Console.WriteLine($"Salário de {trabalhador1.nome}: {trabalhador1.CalcularSalario()}");
-            Console.WriteLine($"Salário de {trabalhador2.nome}: {trabalhador2.CalcularSalario()}");
+            Console.WriteLine($"Salário de {trabalhador1.nome}: R${trabalhador1.CalcularSalario()}");
+            Console.WriteLine($"Salário de {trabalhador2.nome}: R${trabalhador2.CalcularSalario()}");
         }
     }
 }
