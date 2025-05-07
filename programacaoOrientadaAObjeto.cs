@@ -14,8 +14,8 @@ namespace MyApp
         // Atributo público inteiro chamado 'nota_Anual', com valor padrão 8
         public int nota_Anual = 8;
 
-        // Atributo público inteiro chamado 'cpf', com valor padrão 000111222
-        // Atenção: no mundo real, CPF deveria ser string para manter zeros à esquerda
+        /* Atributo público inteiro chamado 'cpf', com valor padrão 000111222
+        Atenção: no mundo real, CPF deveria ser string para manter zeros à esquerda */
         public int cpf = 000111222;
     }
 
