@@ -7,7 +7,7 @@ namespace Abstrata  // Define o namespace 'Abstrata' para agrupar essas classes 
     public abstract class Forma
     {
         // Método abstrato (não tem corpo aqui, apenas assinatura)
-        // Obliga as subclasses a implementarem esse método
+        // Obriga as subclasses a implementarem esse método
         public abstract int CalcularArea();
     }
 
