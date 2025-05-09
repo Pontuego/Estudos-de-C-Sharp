@@ -25,12 +25,14 @@ namespace Interface
             public void ApertarBotao()
             {
                 // Aqui poderia ter código que define o que acontece quando o botão é apertado
+                Console.WriteLine("Botão apertado!");  // Exibe mensagem no console
             }
 
             // Implementação do método da interface ITela
             public void Pintar()
             {
                 // Aqui poderia ter código que define como a tela é pintada/desenhada
+                Console.WriteLine("Tela pintada!");  // Exibe mensagem no console
             }
         }
 
